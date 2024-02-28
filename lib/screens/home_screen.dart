@@ -18,19 +18,19 @@ class _HomeScreenState extends State<HomeScreen> {
 
   String selectedChip = 'Toyota';
   List<String> toyotas = [
-    'Toyota Raize',
-    'Toyota Hilux',
-    'Toyota Vios',
+    'Toyota Fortuner',
+    'Toyota Corola',
+    'Toyota Land Cruiser',
   ];
   List<String> hondas = [
-    'Honda BR-V',
-    'Honda Brio',
-    'Honda HR-V',
+    'Honda Civic',
+    'Honda CR-V',
+    'Honda Accord',
   ];
   List<String> hyundais = [
-    'Hyundai Staria',
-    'Hyundai Creta',
+    'Hyundai Kona',
     'Hyundai Tucson',
+    'Hyundai  Ioniq 5',
   ];
 
   @override
