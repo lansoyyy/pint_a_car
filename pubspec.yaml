@@ -37,6 +37,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   fluttertoast:
   intl:
+  arcore_flutter_plugin: ^0.1.0
 
 dev_dependencies:
   flutter_test:
